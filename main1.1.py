@@ -252,7 +252,7 @@ zone_data={
         },
         {
             "id": 14,
-            "name": "Nagamkulagara",
+            "name": "Vayalar",
             "boundary": [
                 {
                     "lat": 9.69674468605489,
@@ -320,7 +320,7 @@ zone_data={
         },
         {
             "id": 16,
-            "name": "Cherthala",
+            "name": "Cherthala town",
             "boundary": [
                 {
                     "lat": 9.644125065271501,
