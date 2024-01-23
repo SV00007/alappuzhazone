@@ -384,4 +384,4 @@ for zone in zone_data["zones"]:
 
 
 # Save the map to an HTML file
-mymap.save('zones_map.html')
+mymap.save('index.html')
